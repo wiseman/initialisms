@@ -125,7 +125,7 @@ def main(argv):
   logger.info('Initializing...')
   decoder = Decoder(args)
   while True:
-    line = raw_input('Enter initials:\n')
+    line = raw_input('Enter initials:\n').lower()
     logger.info('Decoding %r', line)
     result = decoder.decode(line)
     print result

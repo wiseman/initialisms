@@ -44,6 +44,8 @@ probability of some small number.
 This code is unoptimized and slow.  If you try to decode more than 3
 or 4 characters, you're going to be waiting a long time.
 
+You can use "$" to indicate the start of a sentence, for example "$obv".
+
 
 ### Corpora
 
