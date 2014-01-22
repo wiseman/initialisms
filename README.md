@@ -60,7 +60,7 @@ included 8 pieces of text, all in the `corpora` subdirectory:
 |apostles-creed.txt                 |[The Apostles Creed](https://www.ccel.org/creeds/apostles.creed.html)|
 |athanasian-creed.txt               |[The Athanasian Creed](https://en.wikipedia.org/wiki/Athanasian_Creed)|
 |bible-kjv.txt                      |[The King James Bible](https://en.wikipedia.org/wiki/King_James_Version)|
-|hymnprayerbo00kunz_djvu.txt        |[<em>Hymn and prayer book: for the use of such Lutheran churches as use the English language</em> (1795)](https://archive.org/details/hymnprayerbo00kunz|
+|hymnprayerbo00kunz_djvu.txt        |[<em>Hymn and prayer book: for the use of such Lutheran churches as use the English language</em> (1795)](https://archive.org/details/hymnprayerbo00kunz)|
 |nicene-creed.txt                   |[The Nicene Creed](https://en.wikipedia.org/wiki/Nicene_Creed)|
 |order-of-morning.txt               |[The Order of Morning Service](http://www.lutheran-hymnal.com/online/page5.html)
 |prayerbookreligi00lasauoft_djvu.txt|[<em>Prayer-book for religious: a complete manual of prayers and devotions for the use of the members of all religious communities : a practical guide to the particular examen and to the methods of meditation</em> (1914, c1904)](https://archive.org/details/prayerbookreligi00lasauoft)|
