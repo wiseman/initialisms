@@ -118,7 +118,7 @@ class Decoder(object):
 
 def main(argv):
   args = FLAGS(argv)[1:]
-  logging.basicConfig(level=logging.INFO)
+  logging.basicConfig(level=logging.DEBUG)
   if not args:
     sys.stderr.write('Must give corpora names\n')
     sys.exit(1)
