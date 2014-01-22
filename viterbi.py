@@ -16,6 +16,7 @@ def log_dptable(V):
 
 
 def viterbi(obs, states, start_p, trans_p, emit_p):
+  states = list(states)
   V = [{}]
   path = {}
 
@@ -30,17 +31,17 @@ def viterbi(obs, states, start_p, trans_p, emit_p):
 
   # Run Viterbi for t > 0
   for t in range(1, len(obs)):
-    logger.debug('---- %s%%', int(100.0 * (float(t) / len(obs))))
+    logger.info('---- %s%%', int(100.0 * (float(t) / len(obs))))
     V.append({})
     newpath = {}
     for i, y in enumerate(states):
-      if i % 200 == 0:
+      if i % 500 == 0:
         logger.debug('%s %s', i, y)
-      (prob, state) = max(
-        (V[t - 1][y0] +
-         math.log10(trans_p(y0, y)) +
-         math.log10(emit_p(y, obs[t])), y0)
-        for y0 in states)
+      candidates = [(V[t - 1][y0] +
+                    math.log10(trans_p(y0, y)) +
+                    math.log10(emit_p(y, obs[t])), y0)
+                    for y0 in states]
+      (prob, state) = max(candidates)
       V[t][y] = prob
       newpath[y] = path[state] + [y]
     # Don't need to remember the old paths
