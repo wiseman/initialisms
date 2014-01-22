@@ -2,8 +2,11 @@
 
 This program guesses sentences from initial letters of each word using
 the unreasonable effectiveness of data.  For example, if given the
-right seed texts, it can decode the input "OFWAIHHBTN" into "our
-father who art in heaven hallowed be thy name".
+right seed texts, it can decode the input
+"OFWAIHHBTNTKCTWBDOEAIIIHFUTDODBAFUOT" into "our father who ascended
+into heaven hallowed be thy name thy kingdom come thy will be done on
+earth as it is in heaven for us this day our daily bread and forgive
+us of the"
 
 Inspired by http://norvig.com/ngrams/ch14.pdf and
 http://ask.metafilter.com/255675/Decoding-cancer-addled-ramblings.
@@ -30,19 +33,19 @@ Start the program, feeding it the [Order of Morning
 Service](http://www.lutheran-hymnal.com/online/page5.html):
 
 ```
-$ env/bin/python decode.py order-of-morning.txt
+$ env/bin/python decode.py apostles-creed.txt athanasian-creed.txt nicene-creed.txt order-of-morning.txt
 ```
 
 Once it says "Enter initials:", type "OFWAIHHBTN" and press Enter.  It
 will output something like this:
 
 ```
-1.84167999476e-09 our father who are in heaven hallowed be thy name
+5.99453913576e-12 our father who ascended into heaven hallowed be thy name
 ```
 
-This means that its best guess for "OFWAIHHBTN" is "our father who are
-in heaven hallowed be thy name", with a probability of some small
-number.
+This means that its best guess for "OFWAIHHBTN" is "our father who
+ascended into heaven hallowed be thy name", with a probability of some
+small number.
 
 It is case-insenstive: OFWAIHHBTN is treated the same as "ofwaihhbtn".
 
