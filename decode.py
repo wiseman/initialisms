@@ -147,11 +147,17 @@ def main(argv):
     sys.exit(1)
   logger.info('Initializing...')
   decoder = Decoder(args)
-  while True:
-    line = raw_input('Enter initials:\n').lower()
-    logger.info('Decoding %r', line)
-    result = decoder.decode(line)
-    print result
+  try:
+    while True:
+      if sys.stdin.isatty():
+        line = raw_input('Enter initials:\n')
+      else:
+        line = raw_input()
+      logger.info('Decoding %r', line)
+      prob, words = decoder.decode(line.lower())
+      print prob, ' '.join(words)
+  except EOFError:
+    pass
 
 
 if __name__ == '__main__':
