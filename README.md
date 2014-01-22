@@ -1,7 +1,7 @@
 # finalletters
 
 This program guesses sentences from initial letters of each word using
-the unreasonable power of statistics.  For example, given the input
+the unreasonable effectiveness of data.  For example, given the input
 "obv" it will output "o blessed virgin".
 
 Inspired by http://norvig.com/ngrams/ch14.pdf and
