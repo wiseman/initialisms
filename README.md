@@ -28,32 +28,37 @@ $ env/bin/pip install nltk python-gflags
 Start the program.  It will take 10-20 seconds to load data:
 
 ```
-$ env/bin/python decode.py bible-kjv.txt hymnprayerbo00kunz_djvu.txt prayerbookreligi00lasauoft_djvu.txt
+$ env/bin/python decode.py order-of-morning.txt
 ```
 
-Once it says "Enter initials:", you can type something like "obv" and
-press Enter.  10-20 seconds later it will output something like this:
+Once it says "Enter initials:", you can type something like
+"OFWAIHHBTN" and press Enter.  A second later it will output something
+like this:
 
 ```
-(7.810582510127791e-07, ['o', 'blessed', 'virgin'])
+(1.8416799947589708e-09, ['our', 'father', 'who', 'are', 'in', 'heaven', 'hallowed', 'be', 'thy', 'name'])
 ```
 
-This means that its best guess for "obv" is "o blessed virgin", with a
-probability of some small number.
+This means that its best guess for "OFWAIHHBTN" is "our father who are
+in heaven hallowed be thy name", with a probability of some small
+number.
 
 This code is unoptimized and slow.  If you try to decode more than 3
-or 4 characters, you're going to be waiting a long time.
+or 4 characters with a larger corpus, you're going to be waiting a
+long time.
 
 You can use "$" to indicate the start of a sentence, for example "$obv".
 
 
 ### Corpora
 
-The program makes its guesses based on text you feed it.  I've included three pieces of text:
+The program makes its guesses based on text you feed it.  I've included five pieces of text:
 
 1. [King James Bible](https://en.wikipedia.org/wiki/King_James_Version)
 2. [Prayer-book for religious : a complete manual of prayers and devotions for the use of the members of all religious communities : a practical guide to the particular examen and to the methods of meditation (1914, c1904)](https://archive.org/details/prayerbookreligi00lasauoft)
 3. [Hymn and prayer book : for the use of such Lutheran churches as use the English language (1795)](https://archive.org/details/hymnprayerbo00kunz)
+4. [The Order of Morning Service](http://www.lutheran-hymnal.com/online/page5.html)
+5. [The Lutheran Hymnal](http://www.projectwittenberg.org/etext/hymnals/tlh/)
 
 If you just want to use the King James Bible, start the program like this:
 
