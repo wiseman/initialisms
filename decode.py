@@ -3,6 +3,7 @@ import logging
 import os.path
 import re
 import sys
+import time
 
 import gflags
 import nltk
@@ -104,21 +105,43 @@ class Decoder(object):
       return self.error_prob / 27.0  # a-z and $
 
   def decode(self, initials):
+    timer = Timer()
     states = set()
     for obs in initials:
       states.update(self.words_by_letter[obs])
     logger.info('%s possible states', len(states))
-    return viterbi.viterbi(
+    result = viterbi.viterbi(
       initials,
       states,
       self.start_p,
       self.transition_p,
       self.emission_p)
+    logger.info('Took %s s', timer.elapsed())
+    return result
+
+
+class Timer(object):
+  """Keeps track of wall-clock time."""
+  def __init__(self):
+    self.start_time = None
+    self.reset()
+
+  def reset(self):
+    """Resets the timer."""
+    self.start_time = time.time()
+
+  def elapsed(self):
+    """Returns the elapsed time in seconds.
+
+    Elapsed time is the time since the timer was created or last
+    reset.
+    """
+    return time.time() - self.start_time
 
 
 def main(argv):
   args = FLAGS(argv)[1:]
-  logging.basicConfig(level=logging.DEBUG)
+  logging.basicConfig(level=logging.INFO)
   if not args:
     sys.stderr.write('Must give corpora names\n')
     sys.exit(1)
