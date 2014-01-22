@@ -29,8 +29,7 @@ $ env/bin/pip install nltk python-gflags
 
 ## Example use
 
-Start the program, feeding it the [Order of Morning
-Service](http://www.lutheran-hymnal.com/online/page5.html):
+Start the program, feeding it some prayer texts:
 
 ```
 $ env/bin/python decode.py apostles-creed.txt athanasian-creed.txt nicene-creed.txt order-of-morning.txt
