@@ -1,8 +1,8 @@
 # finalletters
 
-Guesses sentences from initial letters of each word using the
-unreasonable power of statistics.  E.g., given the input "obv" it will
-output "o blessed virgin".
+This program guesses sentences from initial letters of each word using
+the unreasonable power of statistics.  For example, given the input
+"obv" it will output "o blessed virgin".
 
 Inspired by http://norvig.com/ngrams/ch14.pdf and
 http://ask.metafilter.com/255675/Decoding-cancer-addled-ramblings.
