@@ -1,14 +1,18 @@
+import logging
 import math
 
 
+logger = logging.getLogger(__name__)
+
+
 # Helps visualize the steps of Viterbi.
-def print_dptable(V):
+def log_dptable(V):
   s = "    " + " ".join(("%7d" % i) for i in range(len(V))) + "\n"
   for y in V[0]:
     s += "%.15s: " % y
     s += " ".join("%.7s" % ("%f" % v[y]) for v in V)
     s += "\n"
-  print(s)
+  logger.debug('%s', s)
 
 
 def viterbi(obs, states, start_p, trans_p, emit_p):
@@ -26,13 +30,12 @@ def viterbi(obs, states, start_p, trans_p, emit_p):
 
   # Run Viterbi for t > 0
   for t in range(1, len(obs)):
-    print '---- %s%%' % (int(100.0 * (float(t) / len(obs))),)
+    logger.debug('---- %s%%', int(100.0 * (float(t) / len(obs))))
     V.append({})
     newpath = {}
-
     for i, y in enumerate(states):
       if i % 200 == 0:
-        print i, y
+        logger.debug('%s %s', i, y)
       (prob, state) = max(
         (V[t - 1][y0] +
          math.log10(trans_p(y0, y)) +
@@ -40,11 +43,10 @@ def viterbi(obs, states, start_p, trans_p, emit_p):
         for y0 in states)
       V[t][y] = prob
       newpath[y] = path[state] + [y]
-
     # Don't need to remember the old paths
     path = newpath
-
-  #print_dptable(V)
+  logger.info('---- 100%%')
+  log_dptable(V)
   (prob, state) = max((V[t][y], y) for y in states)
   return (10.0 ** prob, path[state])
 
