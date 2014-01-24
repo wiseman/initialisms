@@ -1,4 +1,4 @@
-# finalletters
+# initialisms
 
 This program guesses sentences from initial letters of each word using
 the unreasonable effectiveness of data.  For example, if given the
@@ -8,7 +8,7 @@ into heaven hallowed be thy name thy kingdom come thy will be done on
 earth as it is in heaven for us this day our daily bread and forgive
 us of the"
 
-Inspired by http://norvig.com/ngrams/ch14.pdf and
+Inspired by http://norvig.com/ngrams/ch14.pdf and written as part of the attempt to solve
 http://ask.metafilter.com/255675/Decoding-cancer-addled-ramblings.
 
 
