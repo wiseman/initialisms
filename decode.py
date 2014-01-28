@@ -25,7 +25,7 @@ class Error(Exception):
   pass
 
 
-ALPHANUM_RE = re.compile(r'[^a-z0-9]')
+ALPHANUM_RE = re.compile(r'[^a-zA-Z0-9\']')
 
 
 def is_alphanum(s):
