@@ -1,6 +1,6 @@
 # initialisms
 
-[Code card](https://github.com/wiseman/initialisms/raw/master/code-card.jpg "Code card")
+![Code card](https://raw.github.com/wiseman/initialisms/master/code-card.jpg "code card")
 
 This program guesses sentences from initial letters of each word using
 the unreasonable effectiveness of data.  For example, if given the
