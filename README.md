@@ -1,5 +1,7 @@
 # initialisms
 
+[Code card](https://github.com/wiseman/initialisms/raw/master/code-card.jpg "Code card")
+
 This program guesses sentences from initial letters of each word using
 the unreasonable effectiveness of data.  For example, if given the
 right seed texts, it can decode the input
