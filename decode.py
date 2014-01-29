@@ -68,6 +68,7 @@ class Decoder(object):
     self.error_prob = error_prob or FLAGS.error_prob
     extra_corpora = nltk.corpus.PlaintextCorpusReader(CORPUS_ROOT, '.*')
     words = []
+    timer = Timer()
     for corpus_id in corpora_ids:
       logger.info('Loading corpus %s', corpus_id)
       corpus = extra_corpora.raw(corpus_id)
@@ -84,6 +85,8 @@ class Decoder(object):
     self.words_by_letter = collections.defaultdict(set)
     for w in words:
       self.words_by_letter[w[0]].update([w])
+    logger.info(
+      'Loading %s corpora took %s s', len(corpora_ids), timer.elapsed())
     logger.info('%s maximum possible states', len(self.states))
 
   def start_p(self, word):
@@ -116,7 +119,7 @@ class Decoder(object):
       self.start_p,
       self.transition_p,
       self.emission_p)
-    logger.info('Took %s s', timer.elapsed())
+    logger.info('Decoding %r took %s s', initials, timer.elapsed())
     return result
 
 
@@ -145,7 +148,6 @@ def main(argv):
   if not args:
     sys.stderr.write('Must give corpora names\n')
     sys.exit(1)
-  logger.info('Initializing...')
   decoder = Decoder(args)
   try:
     while True:
