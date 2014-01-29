@@ -2,6 +2,13 @@
 
 ![Code card](https://raw.github.com/wiseman/initialisms/master/code-card.jpg "code card")
 
+> In my grandmother's final days battling brain cancer, she became
+> unable to speak and she filled dozens of index cards with random
+> letters of the alphabet. I'm beginning to think that they are the
+> first letters in the words of song lyrics, and would love to know
+> what song this was. This is a crazy long shot, but I've seen Mefites
+> pull off some pretty impressive code-breaking before!
+
 This program guesses sentences from initial letters of each word using
 the unreasonable effectiveness of data.  For example, if given the
 right seed texts, it can decode the input
