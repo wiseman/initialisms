@@ -2,6 +2,8 @@
 
 ![Code card](https://raw.github.com/wiseman/initialisms/master/code-card.jpg "code card")
 
+From http://ask.metafilter.com/255675/Decoding-cancer-addled-ramblings:
+
 > In my grandmother's final days battling brain cancer, she became
 > unable to speak and she filled dozens of index cards with random
 > letters of the alphabet. I'm beginning to think that they are the
@@ -17,8 +19,7 @@ into heaven hallowed be thy name thy kingdom come thy will be done on
 earth as it is in heaven for us this day our daily bread and forgive
 us of the"
 
-Inspired by http://norvig.com/ngrams/ch14.pdf and written as part of the attempt to solve
-http://ask.metafilter.com/255675/Decoding-cancer-addled-ramblings.
+Inspired by http://norvig.com/ngrams/ch14.pdf.
 
 
 ## Getting ready to use it
