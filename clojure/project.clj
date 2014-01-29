@@ -9,5 +9,5 @@
                  [org.clojure/clojure "1.5.1"]]
   :main ^:skip-aot initialism.core
   :target-path "target/%s"
-  :jvm-opts ["-Xmx4G"]
+  :jvm-opts ["-Xmx8G"]
   :profiles {:uberjar {:aot :all}})

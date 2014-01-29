@@ -8,6 +8,19 @@
   (:gen-class))
 
 
+(defmacro log-time
+  "Evaluates expr and logs the time it took.  Returns the value of expr."
+  [msg expr]
+  `(let [start# (. System (nanoTime))
+         ret# ~expr]
+     (log/info
+      ~msg
+      "took"
+      (/ (double (- (. System (nanoTime)) start#)) 1000000000.0)
+      "s")
+     ret#))
+
+
 (defn get-sentence-detector []
   (nlp/make-sentence-detector
    (io/resource "en-sent.bin")))
@@ -53,13 +66,11 @@
 
 (defn pdist-prob [pdist key]
   (let [{:keys [freqs n]} pdist]
-    (if (contains? freqs key)
-      (/ (freqs key) n)
-      (/ 0.5 n))))
+    (get freqs key (/ 0.5 n))))
 
 
 (defn read-corpus [sentencizer tokenizer corpus]
-  (log/info "Reading corpus" corpus)
+  (log/info "Loading corpus" corpus)
   (let [sentences (sentencizer (slurp corpus))
         tokens (apply concat
                       (pmap (fn [s]
@@ -77,14 +88,15 @@
 
 
 (defn read-corpora [corpora]
-  (let [sentencizer (get-sentence-detector)
-        tokenizer (get-tokenizer)
-        stats (reduce
-               merge-corpus-stats
-               (pmap (partial read-corpus sentencizer tokenizer) corpora))]
-    (assoc stats
-      :P2w (pdist (stats :bigrams))
-      :Pw (pdist (stats :unigrams)))))
+  (log-time (str "Loading " (count corpora) " corpora")
+    (let [sentencizer (get-sentence-detector)
+          tokenizer (get-tokenizer)
+          stats (reduce
+                 merge-corpus-stats
+                 (pmap (partial read-corpus sentencizer tokenizer) corpora))]
+      (assoc stats
+        :P2w (pdist (stats :bigrams))
+        :Pw (pdist (stats :unigrams))))))
 
 
 (defn make-initialism-hmm [stats obs]
@@ -106,7 +118,13 @@
 (defn -main
   "I don't do a whole lot ... yet."
   [& args]
-  (let [stats (time (read-corpora args))
-        hmm (make-initialism-hmm stats "pdgn")]
-    (println (time (viterbi/viterbi hmm "pdgn"))))
-  (System/exit 0))
+  (let [stats (read-corpora args)]
+    (loop [line (string/lower-case (read-line))]
+      (when-not line
+        (System/exit 0))
+      (let [line (string/lower-case line)]
+        (log/info "Decoding" line)
+        (let [[prob words] (log-time (str "Decoding" line)
+                             (viterbi/viterbi (make-initialism-hmm stats line) line))]
+          (println prob (string/join " " words))))
+      (recur (read-line)))))
