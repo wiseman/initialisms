@@ -19,17 +19,21 @@ gflags.DEFINE_float(
   'error_prob',
   0.001,
   'The probability that a letter was read or written incorrectly.')
+gflags.DEFINE_bool(
+  'dump_tokens',
+  False,
+  'Dump a list of all tokens found in the corpora, then exit.')
 
 
 class Error(Exception):
   pass
 
 
-ALPHANUM_RE = re.compile(r'[^a-zA-Z0-9\']')
+TOKEN_RE = re.compile(r'[^a-z\']')
 
 
-def is_alphanum(s):
-  return not(ALPHANUM_RE.search(s))
+def is_token(s):
+  return not(TOKEN_RE.search(s))
 
 
 def reposses(tokens):
@@ -43,6 +47,8 @@ def reposses(tokens):
     else:
       yield last_token
       last_token = token
+  if last_token:
+    yield last_token
 
 
 class Pdist(dict):
@@ -75,10 +81,11 @@ class Decoder(object):
       for sentence in nltk.tokenize.sent_tokenize(corpus):
         sent_words = [w.lower()
                       for w in reposses(nltk.tokenize.word_tokenize(sentence))]
-        sent_words = [filter(is_alphanum, w) for w in sent_words]
+        sent_words = [filter(is_token, w) for w in sent_words]
         sent_words = [w for w in sent_words if w]
-        sent_words = ['$'] + sent_words
-        words += sent_words
+        if sent_words:
+          sent_words = ['$'] + sent_words
+          words += sent_words
     self.states = set(words)
     self.Pw = Pdist(collections.Counter(nltk.ngrams(words, 1)).items())
     self.P2w = Pdist(collections.Counter(nltk.ngrams(words, 2)).items())
@@ -87,7 +94,7 @@ class Decoder(object):
       self.words_by_letter[w[0]].update([w])
     logger.info(
       'Loading %s corpora took %s s', len(corpora_ids), timer.elapsed())
-    logger.info('%s maximum possible states', len(self.states))
+    logger.info('%s distinct tokens', len(self.states))
 
   def start_p(self, word):
     prob = self.Pw((word,))
@@ -112,7 +119,7 @@ class Decoder(object):
     states = set()
     for obs in initials:
       states.update(self.words_by_letter[obs])
-    logger.info('%s possible states', len(states))
+    logger.info('Searching %s possible states', len(states))
     result = viterbi.viterbi(
       initials,
       states,
@@ -142,13 +149,7 @@ class Timer(object):
     return time.time() - self.start_time
 
 
-def main(argv):
-  args = FLAGS(argv)[1:]
-  logging.basicConfig(level=logging.INFO)
-  if not args:
-    sys.stderr.write('Must give corpora names\n')
-    sys.exit(1)
-  decoder = Decoder(args)
+def repl(decoder):
   try:
     while True:
       if sys.stdin.isatty():
@@ -160,6 +161,24 @@ def main(argv):
       print prob, ' '.join(words)
   except EOFError:
     pass
+
+
+def dump_tokens(decoder):
+  for word in sorted(decoder.states):
+    print word
+
+
+def main(argv):
+  args = FLAGS(argv)[1:]
+  logging.basicConfig(level=logging.INFO)
+  if not args:
+    sys.stderr.write('Must give corpora names\n')
+    sys.exit(1)
+  decoder = Decoder(args)
+  if FLAGS.dump_tokens:
+    dump_tokens(decoder)
+  else:
+    repl(decoder)
 
 
 if __name__ == '__main__':
