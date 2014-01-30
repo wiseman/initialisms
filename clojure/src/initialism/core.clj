@@ -2,10 +2,16 @@
   (:require
    [clojure.java.io :as io]
    [clojure.string :as string]
+   [com.lemonodor.gflags :as gflags]
    [com.lemonodor.viterbi :as viterbi]
    [opennlp.nlp :as nlp]
    [taoensso.timbre :as log])
   (:gen-class))
+
+
+(gflags/define-boolean "dump-tokens"
+  false
+  "Dump a list of all tokens found in the corpora, then exit.")
 
 
 (defmacro log-time
@@ -43,13 +49,13 @@
             (recur token rest-tokens (conj new-tokens last-token))))))))
 
 
-(defn is-alphanum [token]
-  (re-matches #"[A-Za-z0-9']+" token))
+(defn is-token [token]
+  (re-matches #"[A-Za-z']+" token))
 
 
 (defn get-tokenizer []
   (comp
-   #(filter is-alphanum %)
+   #(filter is-token %)
    reposess
    #(map string/lower-case %)
    (nlp/make-tokenizer
@@ -74,7 +80,10 @@
   (let [sentences (sentencizer (slurp corpus))
         tokens (apply concat
                       (pmap (fn [s]
-                              (concat ["$"] (tokenizer s)))
+                              (let [tokens (tokenizer s)]
+                                (if (seq tokens)
+                                  (concat ["$"] tokens)
+                                  '())))
                             sentences))
         stats {:unigrams (frequencies tokens)
                :bigrams (frequencies (n-grams 2 tokens))}]
@@ -88,15 +97,19 @@
 
 
 (defn read-corpora [corpora]
-  (log-time (str "Loading " (count corpora) " corpora")
-    (let [sentencizer (get-sentence-detector)
-          tokenizer (get-tokenizer)
-          stats (reduce
-                 merge-corpus-stats
-                 (pmap (partial read-corpus sentencizer tokenizer) corpora))]
-      (assoc stats
-        :P2w (pdist (stats :bigrams))
-        :Pw (pdist (stats :unigrams))))))
+  (let [sentencizer (get-sentence-detector)
+        tokenizer (get-tokenizer)
+        stats (log-time (str "Loading " (count corpora) " corpora")
+                (let [stats (reduce
+                             merge-corpus-stats
+                             (pmap (partial read-corpus sentencizer tokenizer)
+                                   corpora))]
+                  (assoc
+                      stats
+                    :P2w (pdist (stats :bigrams))
+                    :Pw (pdist (stats :unigrams)))))]
+    (log/info (count (stats :unigrams)) "distinct tokens")
+    stats))
 
 
 (defn make-initialism-hmm [stats obs]
@@ -104,7 +117,7 @@
                        (map first (stats :unigrams)))
         start-p (stats :Pw)
         trans-p (stats :P2w)]
-    (log/info (count states) "distinct states")
+    (log/info "Searching" (count states) "possible states")
     (viterbi/make-hmm
      :states states
      :start-p #(pdist-prob start-p %)
@@ -115,16 +128,31 @@
                  0.0)))))
 
 
+(defn repl [stats]
+  (loop [line (string/lower-case (read-line))]
+    (when-not line
+      (System/exit 0))
+    (let [line (string/lower-case line)]
+      (log/info "Decoding" line)
+      (let [[prob words] (log-time (str "Decoding " line)
+                           (viterbi/viterbi (make-initialism-hmm stats line) line))]
+        (println prob (string/join " " words))))
+    (recur (read-line))))
+
+
+(defn dump-tokens [stats]
+  (log/info "Dumping tokens")
+  (doseq [[token count] (sort (stats :unigrams))]
+    (println token)))
+
+
 (defn -main
   "I don't do a whole lot ... yet."
   [& args]
-  (let [stats (read-corpora args)]
-    (loop [line (string/lower-case (read-line))]
-      (when-not line
-        (System/exit 0))
-      (let [line (string/lower-case line)]
-        (log/info "Decoding" line)
-        (let [[prob words] (log-time (str "Decoding" line)
-                             (viterbi/viterbi (make-initialism-hmm stats line) line))]
-          (println prob (string/join " " words))))
-      (recur (read-line)))))
+  (let [unparsed-args (gflags/parse-flags (concat [nil] args))
+        flags (gflags/flags)
+        stats (read-corpora unparsed-args)]
+    (if (flags :dump-tokens)
+      (dump-tokens stats)
+      (repl stats)))
+  (System/exit 0))

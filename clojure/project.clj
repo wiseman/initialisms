@@ -4,6 +4,7 @@
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :dependencies [[clojure-opennlp "0.3.2"]
+                 [com.lemonodor/gflags "0.1.1"]
                  [com.lemonodor.viterbi "0.1.0"]
                  [com.taoensso/timbre "2.7.1"]
                  [org.clojure/clojure "1.5.1"]]
