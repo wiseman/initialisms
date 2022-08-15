@@ -15,8 +15,9 @@ application = app = Flask(__name__) # because aws looks for application
 
 @app.route("/api/mnemonics_function/<initials>")
 def returnListOfMnemonics(initials):
+    print("initials", initials)
     decoder = Decoder()
-    return decoder.decode(initials.lower())
+    return {"mnemonics_found": json.dumps(decoder.decode(initials.lower()))}
 
 
 FLAGS = gflags.FLAGS
@@ -115,7 +116,7 @@ class Decoder(object):
         
         result_list = regex.findall(self.corpus)
         logger.info('Decoding %r took %s s', initials, timer.elapsed())
-        return json.dumps(result_list)
+        return result_list
 
 
 def repl(decoder):
