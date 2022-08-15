@@ -85,3 +85,938 @@ Let me play
 Take me please
 I was there
 Any time now
+
+List of mnemonics
+From Wikipedia, the free encyclopedia
+Jump to navigationJump to search
+
+This article has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these template messages)
+This article may contain indiscriminate, excessive, or irrelevant examples. (September 2018)
+This article needs additional citations for verification. (March 2009)
+
+This article contains a list of notable mnemonics used to remember various objects, lists, etc.
+
+
+Contents
+1	Astronomy
+2	Biology
+3	Chemistry
+4	Engineering
+5	Geography
+6	Geology
+7	History
+8	Languages
+8.1	Characteristic sequence of letters
+8.2	Letters of specific syllables in a word
+8.3	Distinguishing between similar words
+8.4	First letter mnemonics of spelling
+8.5	Grammar
+9	Mathematics
+9.1	Pi
+9.2	Quadratic equation
+9.3	Mathematical operations
+9.4	Trigonometry
+9.5	Topology
+9.6	Calculus
+10	Medicine
+11	Music
+11.1	Bowed strings
+11.2	Guitar
+11.3	Ukulele
+11.4	Reading music
+12	Philosophy
+13	Physics
+14	Transportation
+15	Units of measure
+16	See also
+17	References
+18	Further reading
+19	External links
+Astronomy
+Order of planets from the Sun: (Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune, Pluto)
+See also: Planetary mnemonic
+obsolete (per the IAU definition of planet):
+Most Vegetables Eat More Juice So Usually Never Pee[1]
+My Very Educated Mother Just Served Us Nine Potatoes[1]
+Many Vicious Elephants Met Just Slightly Under New Pineapples[1]
+My Very Easy Method Just Speeds Up Naming Planets
+Mark's Very Extravagant Mother Just Sent Us Ninety Parakeets
+Stellar classification sequence: O B A F G K M R N S
+Oh Be A Fine Girl/Guy, Kiss Me Right Now, Sweetheart![2]
+Revised stellar classification sequence: O B A F G K M L T Y
+Old, Bald, And Fat Generals Kiss More Ladies Than You[3]
+Biology
+See also: Taxonomy mnemonic
+To remember the order of taxa in biology (Domain, Kingdom, Phylum, Class, Order, Family, Genus, Species, [Variety]):
+"Dear King Philip Came Over For Good Soup" is often cited as a non-vulgar method for teaching students to memorize the taxonomic classification of system.[4][5] Other variations tend to start with the mythical king, with one author noting "The nonsense about King Philip, or some ribald version of it, has been memorized by generations of biology students".[6]
+Dear King Philip Claps Often For Good Science
+Do Kings Play Chess On Fine Green Silk?[7]: 69 
+Dumb Kids Prefer Cheese Over Fried Greasy Spinach[7]: 69 
+Do Kindly Place Cover On Fresh Green Spring Vegetables[7]: 69 
+Darn Kernel Panics Crash Our Family Game System[8]
+Do Keep Pond Clean Or Frog Gets Sick
+Dumb Kids Play Catch Over Father's Grave Stone
+Daniel Keeps Philip Cat On Friday Getting Salsa
+Dear Kevin, Please Come Over For Gay Sex
+To remember the processes that define living things:
+MRS GREN: Movement; Respiration; Sensation; Growth; Reproduction; Excretion; Nutrition[7]: 135 [9]
+To remember the number of humps on types of camels:[7]: 67 [10]
+D in Dromedary has one hump; B in Bactrian has two
+To distinguish color patterns between the harmless kingsnake and the venomous coral snake
+Red on black, venom lack; red on yellow, kill a fellow.
+Red on yellow, kill a fellow; red on black, friend to Jack.
+To recognize poison ivy
+Leaves of three, leave it be.
+COWS stand for Cold Opposite Warm Same, which are the relation between the components of the Caloric reflex test[11]
+Chemistry
+See also: List of chemistry mnemonics
+To recall the names of the first 20 elements in the periodic table:
+
+Harry, he likes beer by cupfuls, not over frothy, never nasty mugs allowed. Since past six closing, are kegs cancelled?
+(H, He, Li, Be, B, C, N, O, F, Ne, Na, Mg, Al, Si, P, S, Cl, Ar, K, Ca.)
+To remember the different charges of the anode and cathode in electrolysis (PANIC): Positive Anode Negative Is Cathode
+
+Engineering
+For the EIA electronic color code, Black(0), Brown(1), Red(2), Orange(3), Yellow(4), Green(5), Blue(6), Violet(7), Gray(8), White(9), Gold(5%), Silver(10%), None(20%)
+See also: List of electronic color code mnemonics
+Big brown rabbits often yield great big vocal groans when gingerly slapped[12]
+Bad boys run our young girls behind victory garden walls[13]
+B .B Roy [of] Great Britain [has] Very Good Wife.
+A mnemonic to remember which way to turn common (right-hand thread) screws and nuts, including light bulbs, is "Righty-tighty, Lefty-loosey"; another is "Right on, Left off".[7]: 165 
+For the OSI Network Layer model Please Do Not Throw Sausage Pizza Away correspond to the Physical, Datalink, Network, Transport, Session, Presentation and Application layers.
+For power in watts: Twinkle twinkle little star, Power equals I squared R.[1][clarification needed]
+Geography
+The countries of South America in order of largest to smallest by area: Brazil, Argentina, Peru, Colombia, Bolivia, Venezuela, Chile, Paraguay, Ecuador, Guyana, Uruguay, Suriname
+Boring, Average Politics Can Become Very Corrupt. People Everywhere Get Used Sometimes
+The countries of Central America from North to South: Belize, Guatemala, El Salvador, Honduras, Nicaragua, Costa Rica, Panama
+Big Gorillas Eat Hotdogs, Not Cold Pizza[14]
+Including Mexico, My Grandma Bunny Eats Hamburgers, Not Canned Peas
+The Great Lakes in order of largest to smallest: Superior, Huron, Michigan, Erie, Ontario
+Super Heroes Must Eat Oats
+Or just to remember them at all
+Huron Ontario Michigan Erie Superior: HOMES
+The principal factors affecting climate: LABDOWA
+Latitude, Altitude, Build, Distance from the sea, Ocean currents, Wind, Aspect
+Geology
+Geological periods: Precambrian, Cambrian, Ordovician, Silurian, Devonian, Carboniferous, Permian, Triassic, Jurassic, Cretaceous, Paleocene, Eocene, Oligocene, Miocene, Pliocene, Pleistocene, Recent (Holocene)
+Pregnant Camels Often Sit Down Carefully, Perhaps Their Joints Creak? Possibly Early Oiling Might Prevent Permanent Rheumatism[7]: 62–63 [15]
+Paleozoic to Cenozoic: Pregnant Camels Ordinarily Sit Down Carefully, Perhaps Their Joints Creak[16]
+Mohs scale of mineral hardness 1-10:[17]
+For Talc(=1), Gypsum(=2), Calcite(=3), Fluorite(=4), Apatite(=5), Orthoclase(=6), Quartz(=7), Topaz(=8), Corundum(=9), Diamond(=10)
+Tall Girls Can Fight And Other Queer Things Can Develop[7]: 64 
+TAll GYroscopes CAn FLy APart ORbiting QUickly TO COmplete DIsintegration[7]: 64 
+Toronto Girls Can Flirt And Only Quit To Chase Dwarves
+Terrible Giants Can Find Alligators Or Quaint Trolls Conveniently Digestible
+Tall Gene Calls Florence At Our Quarters To Correct Dumbness[18]
+Differentiating stalactites from stalagmites.[19]
+The 'mites go up and the 'tites come down. When one has ants in one's pants, the mites go up and the tights come down.[7]: 66  (In a strict scientific sense, a mite is not an ant, although "mite" in common speech can refer to any small creature.)
+Stalactites hang tight, hang down like tights on a line; stalagmites might bite (if you sit on them), might reach the roof.[7]: 66 
+Tights hang from the Ceiling, and Mites crawl around on the Ground
+You need might to do push-ups (from the floor). You must hold tight doing chin-ups (off the ceiling).
+Stalactites are on the ceiling. Stalagmites are on the ground.[7]: 66 
+Stalactites cling tight to the ceiling; stalagmites might reach the ceiling.
+History
+Chinese dynasties (simplified): Xia (Hsia), Shang, Zhou (Chou), Qin (Ch'in), Han, Jin, Southern and Northern, Sui, Tang, Song, Yuan, Ming, Qing (Ching)
+She Shamefully Chose Chinese Hand Jingles (and) SiNfully Sweet Tango Songs: "You (and) Me, Chickadee!"[15]
+English dynasties (simplified): Norman, Plantagenet, Lancaster, York, Tudor, Stuart, Hanover, Windsor
+No Plan Like Yours To Study History Wisely.[20]
+See also: Mnemonic verses of monarchs in England
+Wives of Henry VIII (names): Aragon, Boleyn, Seymour, Cleves, Howard, Parr
+All Boys Should Come Home Please[7]: 103 
+Wives of Henry VIII (manner of death): Divorced, beheaded, died / Divorced, beheaded, survived.[7]: 104 
+British nobility rank order (simplified): Duke, Marquess, Earl, Viscount, Barons
+Do Men Ever Visit Boston?[15]
+Assassinated US presidents and perpetrators: Lincoln by Booth, Garfield by Guiteau, McKinley by Czolgosz and Kennedy by Oswald.
+Losers Bearing Grudges Grieve Mainly Cowards Killing Orators
+Languages
+Characteristic sequence of letters
+I always comes before E (but after C, E comes before I)[21][22]
+In most words like friend, field, piece, pierce, mischief, thief, tier, it is "i" which comes before "e". But on some words with c just before the pair of e and i, like receive, perceive, "e" comes before "i". This can be remembered by the following mnemonic,
+
+I before E, except after C
+But this is not always obeyed as in case of weird and weigh, weight, height, neighbor etc. and can be remembered by extending that mnemonic as given below
+
+I before E, except after C
+Or when sounded "A" as in neighbor, weigh and weight
+Or when sounded like "eye" as in height
+And "weird" is just weird
+Another variant, which avoids confusion when the two letters represent different sounds instead of a single sound, as in atheist or being, runs
+
+When it says ee
+Put i before e
+But not after c
+Where ever there is a Q there is a U too
+Most frequently u follows q. e.g.: Que, queen, question, quack, quark, quartz, quarry, quit, Pique, torque, macaque, exchequer. Hence the mnemonic:
+
+Where ever there is a Q there is a U too[22] (But this is violated by some words; see:List of English words containing Q not followed by U)
+Letters of specific syllables in a word
+BELIEVE
+Do not believe a lie.[22]
+SECRETARY
+A secretary must keep a secret[22]
+TEACHER
+There is an ache in every teacher.[22]
+MEASUREMENT
+Be sure of your measurements before you start work.[22]
+FRIEND
+Fri the end of your friend[22]
+SPECIAL
+The CIA have special agents[22]
+BEAUTIFUL
+Big Elephants Are Ugly[23]
+SEPARATE
+Always smell a rat when you spell separate[22]
+There was a farmer named Sep and one day his wife saw a rat. She yelled, “Sep! A rat – E!!!”[24]
+CEMETERY
+There are three "e"s buried in "cemetery".
+PRINCIPAL
+The principal is your pal.
+Distinguishing between similar words
+Difference between Advice & Advise, Practice & Practise, Licence & License etc.
+Advice, Practice, Licence etc. (those with c) are nouns and Advise, Practise, License etc. are verbs.
+
+One way of remembering this is that the word ‘noun’ comes before the word ‘verb’ in the dictionary; likewise ‘c’ comes before ‘s’, so the nouns are ‘practice, licence, advice’ and the verbs are ‘practise, license, advise’.[25]
+Here or Hear
+We hear with our ear.
+Complement and Compliment
+complement adds something to make it enough
+compliment puts you in the limelight[22]
+Principle and Principal
+Your principal is your pal
+A rule can be called a principle[24]
+Remedial and Menial
+Remedial work is meant to remedy.
+Menial work is boring but it's mean (-ial) to complain.
+Their, There and They're
+Theirs is not mine even though 'I' is in it.
+There is where we'll be.
+They're is a contraction of 'they are.'
+Stationary and stationery
+Stationery contains er and so does paper; stationary (not moving) contains ar and so does car[22]
+A for "at rest", e for envelope
+First letter mnemonics of spelling
+DIARRH(O)EA
+Dashing In A Rush, Running Harder (or) Else Accident!
+Dining In A Rough Restaurant: Hurry, (otherwise)Expect Accidents!
+Diarrhea Is A Really Runny Heap (of) Endless Amounts[23]
+ARITHMETIC
+A Rat In The House May Eat The Ice Cream[26]
+NECESSARY
+Not Every Cat Eats Sardines (Some Are Really Yummy)[26]
+Never Eat Chocolate, Eat Sardine Sandwiches And Remain Young
+BECAUSE
+Big Elephants Can Always Understand Small Elephants
+Big Elephants Cause Accidents Under Small Elephants
+Big Elephants Can't Always Use Small Exits
+Big Elephants Can’t Always Use Small Entrances[26]
+MNEMONICS
+Mnemonics Now Erase Man's Oldest Nemesis, Insufficient Cerebral Storage[24]
+GEOGRAPHY
+George's Elderly Old Grandfather Rode A Pig Home Yesterday.[24]
+TOMORROW
+Trails Of My Old Red Rose Over Window[23]
+RHYTHM
+Rhythm Helps Your Two Hips Move[26]
+Grammar
+Adjective order in English: OSASCOMP (Opinion, Size, Age, Shape, Color, Origin, Material, Purpose)[27]
+On Saturday And Sunday Cold Ovens Make Pastry
+Commonly-used coordinating conjunctions in English: FANBOYS[28][29]
+For, And, Nor, But, Or, Yet, So
+The verbs in French that use the auxiliary verb être in the compound past (sometimes called "verbs of motion") can be memorized using the phrase "Dr. (and) Mrs. Vandertramp":
+devenir, revenir, monter, rester, sortir, venir, aller, naître, descendre, entrer, rentrer, tomber, retourner, arriver, mourir, partir[30]
+Mathematics
+See also: Mental calculation, Piphilology, and e (mathematical constant)
+Pi
+The first 15 numbers of Pi can be remembered by counting the letters in the phrase, How I want a drink, alcoholic of course, after the heavy lectures involving quantum mechanics
+
+Quadratic equation
+The articulation of the quadratic equation can be sung to the tune of various songs as a mnemonic device.[31]
+
+Mathematical operations
+For helping students in remembering the rules in adding and multiplying two signed numbers, Balbuena and Buayan (2015) made the letter strategies LAUS (like signs, add; unlike signs, subtract) and LPUN (like signs, positive; unlike signs, negative), respectively.[32]
+Order of Operations
+PEMDAS
+Please - Parenthesis
+Excuse - Exponents
+My - Multiplication
+Dear - Division
+Aunt - Addition
+Sally - Subtraction
+(In the UK, the phrase BIDMAS is used instead; Brackets, Indices, Division, Multiplication, Addition, Subtraction.)[33]
+
+Trigonometry
+The mnemonic "SOHCAHTOA" (occasionally spelt "SOH CAH TOA") is often used to remember the basic trigonometric functions:[34]
+
+Sine = Opposite / Hypotenuse
+Cosine = Adjacent / Hypotenuse
+Tangent = Opposite / Adjacent
+Other mnemonics that have been used for this include:
+
+Some Old Hippie Caught Another Hippie Tripping On Acid.
+
+Ships Of Holland Call At Harwich To Obtain Apples.
+
+Sighs Of Happiness Come After Having Tankards Of Ale.
+
+Some Old Hen Caught Another Hen Taking Off Alone.
+
+Silly Old Hitler Can't Advance His Troops On Africa.
+
+Topology
+Mnemonics for Euler's characteristic are "fav. me", for "F  add V, minus E ", and "veryfun".[35]
+
+Calculus
+The mnemonic "LIATE" is commonly used to determine which functions are to be chosen as u and DV in integration by parts.
+
+Logarithmic functions
+Inverse trigonometric functions
+Algebraic functions
+Trigonometric functions
+Exponential functions
+Medicine
+Main article: List of medical mnemonics
+See also: Category:Medical mnemonics
+To remember the signs of a stroke:
+FAST
+Face (Has the victim's face fallen on one side?)
+Arms (Can the victim raise both arms and keep them raised?)
+Speech (Is the victim's speech slurred? Can they repeat a simple sentence?)
+Time (It is time to contact emergency services.)
+To remember the steps for Resuscitation:
+D.R.S. A.B.C.D
+Danger (Check for danger to yourself or others before starting)
+Response (Check for signs of life or response)
+Send for help (Call for backup, or Emergency services)
+Airway (Check for obstruction in the throat)
+Breaths (Check for breaths)
+CPR (Commence CPR)
+Defib (Apply Defibrillator)
+To remember the 10 organ systems of the human body:[36]
+NICER DRUMS (Nervous, Integumentary, Circulatory, Endocrine, Respiratory, Digestive, Reproductive, Urinary, Muscular, Skeletal)
+Intrinsic muscles of hand[37]
+'A OF A OF A'
+
+Thenar (lateral to medial-palmar surface):
+
+Abductor pollicis brevis
+    Opponens pollicis
+    Flexor pollicis brevis
+    Adductor pollicis
+Hypothenar (lateral to medial-palmar surface):
+
+Opponens digiti minimi
+    Flexor digiti minimi
+    Abductor digiti minimi
+Bones of the wrist:
+Scaphoid bone, Lunate bone, Triquetral bone, Pisiform bone, Trapezium (bone), Trapezoid bone, Capitate bone & Hamate bone
+Some Lovers Try Positions That They Can't Handle
+She Looks Too Pretty Try To Catch Her
+So Long To Pinky, Here Comes The Thumb
+Simply Learn The Positions That The Carpus Has
+Send Louis To Paris To Tame Carnal Hungers
+Stop Letting Those People Touch The Cadaver's Hands
+Differential Diagnosis
+VINDICATE
+Cranial nerves
+List of mnemonics for the cranial nerves, their respective type and foramen
+NERVE:	Olfactory nerve	Optic nerve	Oculomotor nerve	Pathic (Trochlear) nerve	Trigeminal (dentist) nerve	Abducens nerve	Facial nerve	Vestibulo-cochlear (Auditory) nerve	Glosso-pharyngeal nerve	Vagus nerve	Spinal Accessory nerve	Hypoglossal nerve
+Ophthalmic	Maxillary	Mandibular
+Mnemonic:
+(for nerve)[38]	OLd	OPen	OCeans	TROuble	TRIbesmen	ABout	Fish	VEnom	Giving	VArious	ACute / SPlitting	Headaches
+On	Old	Olympus'	Towering	Top	A	Fat	Vocal	German	Viewed	A	Hop
+TYPE:	Sensory	Sensory	Motor	Motor	Both (sensory + motor)	Motor	Both	Sensory	Both	Both	Motor	Motor
+Mnemonic:
+(for type)[39]	Some	Say	Money	Matters,	But	My	Brother	Says	Big	Brains	Matter	More
+FORAMINA:	Cribriform plate	Optic canal	Superior Orbital Fissure	Superior Orbital Fissure	Superior Orbital Fissure	Foramen Rotundum	Foramen Ovale	Superior Orbital Fissure	Internal Acoustic Meatus	Internal Acoustic Meatus	Jugular Foramen	Jugular Foramen	Jugular Foramen	Hypoglossal Canal
+Mnemonics:
+(for foramina)	Cleaners	Only	Spray	Smelly	Stuff	Right	On	Smelly	Idiots	In	Jumbled	Junkyards	Juggled	High
+Carl	Only	Swims	South.	Silly	Roger	Only	Swims	In	Infiniti	Jacuzzis.	Jane	Just	Hitchhikes.
+Music
+Bowed strings
+Mnemonics are used in remembering string names in violin standard tuning.
+Good Dogs Always Eat[40]
+Greedy Dogs Always Eat[41]
+Mnemonics are used in remembering string names in viola standard tuning.
+Cats Give Dogs Advice[41]
+Guitar
+Mnemonics are used in remembering guitar string names in standard tuning.[42]
+Every Average Dude Gets Better Eventually
+Eggs Are Deliciously Good Breakfast Energy
+Eddy Ate Dynamite Good Bye Eddy
+Every Adult Dog Growls Barks Eats.
+Every Acid Dealer Gets Busted Eventually
+Even After Dinner Giant Boys Eat
+Elephants And Donkeys Grow Big Ears
+Every American Dog Gets Bones Easily
+Every Angel Does Good Before Evil
+Eat All Day Get Big Easy
+Eine Alte Dame Geht Heute Einkaufen (German: an old lady goes shopping today)
+Een Aap Die Geen Bananen Eet (Dutch: A monkey that doesn't eat bananas)
+Thus we get the names of the strings from 6th string to the 1st string in that order.
+
+Conversely, a mnemonic listing the strings in the reverse order is:
+
+Every Beginning Guitarist Does All Exercises!
+Elvis' Big Great Dane Ate Everything
+Every Big Girl Deserves An Elephant
+Easter Bunny Gets Drunk At Easter
+Easter Bunnies Go Dancing After Easter
+Ukulele
+As for guitar tuning, there is also a mnemonic for ukuleles.
+
+Good Cooks Eat A-lot
+In the other direction it is Aunt Evy Cooks Grits
+Reading music
+Musicians can remember the notes associated with the five lines of the treble clef using any of the following mnemonics, EGBDF: (from the bottom line to the top)
+Every Good Boy Does Fine.[43]
+Every Good Boy Deserves Fudge (or Friendship, Fun, Fruit, etc.)
+Eggnog Gets Better During February
+Empty Garbage Before Dad Flips
+The four spaces of the treble clef spell out (from the bottom to the top) FACE and can be remembered as FACE fits in the space (between lines)
+The five lines of the bass clef from the bottom to the top
+Good Boys Do Fine Always
+Good Birds Don't Fly Away
+Grizzly Bears Don't Fly Airplanes
+Great Basses Dig Fine Altos
+Goblins Bring Death For All
+George Bush Didn't Find Anything
+Good Burritos Don't Fall Apart
+The four spaces of the bass clef from the bottom to the top
+All Cows Eat Grass
+All Cars Eat Gas
+The five lines of the alto clef from the bottom to the top
+Fat Alley Cat Eats Garbage
+The four spaces of the alto clef from the bottom to the top
+Green Birds Do Fly
+
+
+Key signatures of C♯ major or A♯ minor (left) and C♭ major or A♭ minor (right)
+The order of sharps in key signature notation is F♯, C♯, G♯, D♯, A♯, E♯, B♯, which can be remembered using the phrase
+Father Charles Goes Down And Ends Battle
+Father Christmas Gave Dad An Electric Blanket.[44]
+Fat Cats Go Down Alleys Eating Birds.
+Fidel Castro Gets Drunk And Eats Babies.
+Fat Cats Greedy Dogs All Eat Bananas.
+The order of flats is B♭, E♭, A♭, D♭, G♭, C♭, and F♭ (reverse order of sharps), which can be remembered using the phrase:
+Battle Ends And Down Goes Charles' Father
+Blanket Exploded And Dad Got Cold Feet.[44]
+Before Eating A Doughnut Get Coffee First.
+To remember the difference between the whole rest and the half rest:
+A whole rest looks like a "hole in the ground", and a half rest looks like a hat.
+Philosophy
+THE LAD ZAPPA is a mnemonic for the first 11 (and most important) Ionian philosophers: Thales, Heraclitus, Empedocles, Leucippus, Anaximander, Democritus, Zeno, Anaximenes, Protagoras, Parmenides, Anaxagoras .
+THE PLAZA PAD is another mnemonic for the first 11 (and most important) Ionian philosophers: Thales, Heraclitus, Empedocles, Protagoras, Leucippus, Anaximander, Zeno, Anaximenes, Parmenides, Anaxagoras, Democritus.
+SPA is a mnemonic for the philosophers Socrates, Plato, and Aristotle in their order of appearance, Socrates first.
+Physics
+Main article: List of physics mnemonics
+Sequence of colors in a rainbow or visible spectrum (red, orange, yellow, green, blue, indigo, violet):
+"Richard Of York Gave Battle In Vain"
+Roy G. Biv is also used as a fictitious name
+Transportation
+Marine[45][46]
+"Red, Right, Return" reminds the skipper entering ("returning to") an IALA region B port to keep red markers to the starboard of the vessel. Conversely the opposite convention exists in IALA region A ports, where a similar (but significantly different) mnemonic of "Red on the Right Returning To Sea" can be used.
+The phrase "there's always some red port (wine) left" is used to remember the basics in seafaring. "Red" refers to the color of navigation lights on the port (left) side of a vessel (as opposed to green on the starboard side).[45]
+"Nuclear Restrictions Constrain Fishing and Sailing, People Say" is used to encode the "order of priority" for which vessels have right of way (earlier in the list has priority over later): Not under command; Restricted; Constrained by draft; Fishing vessel; Sailboat; Powerboat; Seaplane.[45]
+
+Aviation[47] uses many mnemonics in addition to written checklists. See also Category: Aviation mnemonics
+CRAFT - Clearance limit, Route, Altitude, Frequency, Transponder.
+pre-landing: GUMPS - Gas, Undercarriage, Mixture, Propeller, Speed.
+pre-final: MARTHA - Missed (procedure), Altitude (limit), Radios (set), Time (limit), Heading (final), Airspeed (descent)
+pre-high-altitude - FLOWER - Flow (enabled), Lights (test), Oxygen (charged), Water (humidity), Electricity (on), Radio (check)
+pre-flight-paperwork - ARROW - Airworthiness (certificate), Registration, Required (charts), Operating (checklists), Weight and balance
+night collision avoidance: Red, Right, Returning - Red nav light on Right implies target is Returning (closing)
+radio loss Instrument course - CDEF - as Cleared, else Direct to last fix, else as directed to Expect, else as flight plan Filed
+spin recovery - POKER - Power (off), Opposite (full rudder), Klean (flaps, ...), Elevator (briskly forward), Recover (from dive)
+Units of measure
+Common SI prefixes:
+kilo-, hecto-, deca-, deci-, centi-, milli-, in descending order of magnitude:
+Kangaroos Hop Down British Driveways Carrying M&Ms[48]
+King Henry Drank Both Diet Cokes Monday[48]
+King Henry Died Drinking Chocolate Milk[48]
+deca-, hecto-, kilo-, mega-, giga-, tera-, in ascending order of magnitude:
+Decadent Hector Killed Meg's Gigantic Terrier[48]
+deci-,-, milli-, micro-, nano-, pico-, femto-, atto- in descending order of magnitude:
+Darn Clever Mnemonic Makes No Prefix Forgettable, Absolutely[48]
+See also
+Mnemonic
+List of firefighting mnemonics
+List of visual mnemonics
+Category: Science mnemonics
+References
+ Brown, Mike (2012). How I killed Pluto and why it had it coming. Spiegel & Grau Trade Paperback. ISBN 978-0385531108.
+ "SPECTRAL CLASSIFICATION OF STARS". www.eudesign.com. Retrieved 2019-04-06.
+ Kirkpatrick, J. D. (2008). "Outstanding Issues in Our Understanding of L, T, and Y Dwarfs". 14th Cambridge Workshop on Cool Stars. 384: 85. arXiv:0704.1522. Bibcode:2008ASPC..384...85K.
+ E.D. Hirsch, Jr., The Dictionary of Cultural Literacy (Houghton Mifflin, 1993); E.D. Hirsch, Jr., "What Your Fifth Grader Needs to Know: Fundamentals of a Good Fifth-grade Education" (Doubleday, 2005) p308
+ Scott Hagwood, Memory Power: You Can Develop a Great Memory--America's Grand Master Shows You How (Simon & Schuster, 2007)
+ Robert A. Wallace, et al., Biology, the Science of Life (Scott, Foresman, 1986) p398
+ Parkinson, Judy (2008). I before E (except after C) : old-school ways to remember stuff. Pleasantville, N.Y.: Reader's Digest Association. ISBN 978-07621-0917-3.
+ "Mnemonics". xkcd. Retrieved 2021-11-20.
+ "Life processes - MRS GREN". KS3 Bitesize. BBC. Retrieved 20 November 2012.
+ Psychology: Concepts and Connections, Spencer Rathus
+ "Caloric Reflex (COWS): How does it work?". Medicine Specifics. 18 January 2017. Retrieved 2021-11-20.
+ ^ Jack G. Ganssle, Tammy Noergaard, Fred Eady, Lewin Edwards, David J. Katz, Rick Gentile, Ken Arnold, Kamal Hyder, and Bob Perrin (2008). Embedded Hardware: Know It All. Newnes. p. 17. ISBN 978-0-7506-8584-9. https://books.google.com/books?id=HLpTtLjEXqcC&pg=PA17&dq=resistor+color-code+mnemonic+%22big+brown%22&lr=&as_brr=3&as_pt=ALLTYPES&ei=tzaiSZigOZvgkASsy6GNAg
+ Niebel, Benjamin W.; Freivalds, Andris (2003). "big+brown"&pg=PA297 Methods, Standards, and Work Design. ISBN 9780072468243.
+ Dempsey, Caitlin (22 January 2017). "Geography Mnemonic to Learn the Countries of Central America". Geography Realm. Retrieved 6 July 2020.
+ "11 Tricks for Keeping World History Straight". mentalfloss.com. 5 January 2016. Retrieved 2019-05-05.
+ Mnemonic: Eras of Life
+ Mnemonic: Mineral Hardness
+ "Mnemonic devices for: Chemistry". Mnemonic-device.eu. Retrieved 2012-08-09.
+ Mnemonic: Stalactites and Stalagmites
+ Pauk, Walter; Owens, Ross J. Q. (2013). How to Study in College. Cengage. p. 246. ISBN 9781285632889.
+ "Great Mnemonics". Fun-with-words.com. Retrieved 29 Aug 2011.
+ "Mnemonics - Some Memory Joggers to help you Spell". Archived from the original on 2009-02-14.
+ http://www.skillsworkshop.org/sites/skillsworkshop.org/files/resources/word/e1l2mnemonic.pdf[bare URL PDF]
+ "Spelling Mnemonics". Archived from the original on 2010-09-24.
+ Is it practise or practice? - Future Perfect
+ Mnemonics > Useful mnemonics
+ Mnemonics in English Language Teaching
+ Brenner, Erin. "The Trouble with FANBOYS". Vocabulary.com. Retrieved 2019-07-14.
+ Zimmer, Ben. "Of Fanboys and FANBOYS : Word Routes : Thinkmap Visual Thesaurus". Visual Thesaurus. Retrieved 2019-07-14.
+ Être Verbs - Mnemonic Devices
+ "Quadratic formula song". Retrieved 22 April 2015.
+ http://apjeas.apjmr.com/wp-content/uploads/2015/01/APJEAS-2.3-Revised-Mnemonics-and-Gaming1.pdf[bare URL PDF]
+ "How to use BIDMAS to solve equations". BBC Bitesize. Retrieved 2019-12-23.
+ "Trigonometry - AQA - Revision 1 - GCSE Maths". BBC Bitesize. Retrieved 2019-12-23.
+ Blaom et al, Maths 190 and Maths 190G 2007 S1 C Studyguide, University of Auckland
+ LBCC - Memory Tricks, Scott Brueckner
+ "Archived copy". Archived from the original on 2011-07-13. Retrieved 2009-12-19. Mnemonic- Intrinsic muscles of hand
+ Textbook of Basic Nursing by Caroline Bunker Rosdahl and Mary T. Kowalski (Lippincott Williams & Wilkins, 2007) p194; Medical Terminology for Dummies by Beverley Henderson and Jennifer Dorsey (For Dummies, 2008) p327
+ Caroline Bunker Rosdahl and Mary T. Kowalski, Textbook of Basic Nursing (Lippincott Williams & Wilkins, 2007) p194
+ "A Beginner's Guide on How to Tune a Violin [Instructional Video]". TakeLessons Blog. 2015-10-26. Retrieved 2020-12-22.
+ "How to Tune Your Violin or Viola". Chris Nichols. Retrieved 2020-12-22.
+ Welcome englishguitarschool.com - Justhost.com Archived 2012-04-02 at the Wayback Machine
+ Every Good Boy Does Fine - What does EGBDF stand for?
+ Schonbrun, Marc (2005). The Everything Music Theory Book, p.68. ISBN 1-59337-652-9.
+ Kuenning, Geoff. "Definitions and Mnemonics for Sailors and Powerboaters". Retrieved 20 March 2013.
+ "Archived copy". Archived from the original on 2011-09-02. Retrieved 2011-09-06. in the section "The coming in going out rule"
+ Useful Aviation Mnemonics (published by Dauntless Software, Inc.)
+ Schaeffer, Randy S. (April 16, 2007). "Math Mnemonics". Faculty pages for R.S. Schaeffer. Kutztown PA: Kutztown University. Retrieved November 26, 2011.
+Further reading
+Evans, Rod L. (2007). Every good boy deserves fudge : the book of mnemonic devices (1st ed.). New York, N.Y.: Perigee. ISBN 978-0-399-53351-8.
+Parkinson, Judy (2008). I before E (except after C) : old-school ways to remember stuff. Pleasantville, N.Y.: Reader's Digest Association. ISBN 978-0-7621-0917-3.
+External links
+List of hundreds of mnemonics belonging to several topics
+Medical mnemonics pdf (consisting of 22 pages full of) mnemonics on medical topics ordered alphabetically
+Medical mnemonics
+Searchable database of Medical mnemonics
+Mnemonics generator for numbers
+Collection of Mnemonics
+Collection of Mnemonics by Category
+Community website to collaborate and create new mnemonics
+vte
+Mnemonics
+Categories: MnemonicsPsychology lists
+Navigation menu
+Not logged in
+Talk
+Contributions
+Create account
+Log in
+ArticleTalk
+ReadEditView history
+Search
+Search Wikipedia
+Main page
+Contents
+Current events
+Random article
+About Wikipedia
+Contact us
+Donate
+Contribute
+Help
+Learn to edit
+Community portal
+Recent changes
+Upload file
+Tools
+What links here
+Related changes
+Special pages
+Permanent link
+Page information
+Cite this page
+Wikidata item
+Print/export
+Download as PDF
+Printable version
+
+Languages
+Deutsch
+Edit links
+This page was last edited on 5 August 2022, at 16:50 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 3.0; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policyAbout WikipediaDisclaimersContact WikipediaMobile viewDevelopersStatisticsCookie statementWikimedia FoundationPowered by MediaWiki
+
+Adducation general knowledge lists
+__NewsSupportA to Z
+Search...
+Search
+General Knowledge
+Units of Measurement List 📐
+June Awareness Days 🗓️ #️⃣
+List of Mnemonics 💬🗣️
+International Awareness Days 🗓️
+Home Appliance Brands A-Z 🗂️
+Full Moon Names 🌑🌕
+March Awareness Days
+April Awareness Days
+May Calendar Days 🗓️ #️⃣
+July Awareness Days 🗓️ #️⃣
+August Awareness Days 🗓️ #️⃣
+January Awareness Days 🗓️ #️⃣
+February Awareness Days
+October Awareness Days 🗓️ #️⃣
+November Calendar Days 🗓️#️⃣
+September Awareness Days 🗓️ #️⃣
+December Awareness Days 🗓️ #️⃣
+Acronyms List 🧠
+Most Spoken Languages 🌐
+Fun Facts and Figures 😂
+Internet Chat Acronyms
+Phonetic Alphabet Lists 🔤
+General Knowledge Starter Quiz
+General Knowledge Harder Quiz
+Recent Crimean History
+list of mnemonicsList of Mnemonics 💬🗣️
+List of Mnemonics to Recall Numbers, Ordered Lists & Word Spelling 💬🗣️
+List of mnemonics to use as memory aids which make it easier to store information in your long term memory and recall it accurately on demand.
+
+ADDucation’s list of mnemonics was compiled by Joe Connor and last updated Jun 4, 2022 @ 11:54 am.
+List of mnemonics using words, sentences, catchphrases, rhymes, pictures, songs and rhythms to help you remember and easily recall:
+
+Numbers (number acronyms)
+Lists of Facts / Names / Rules in Order (list acronyms)
+How to Spell Awkward and Long Words (spelling acronyms).
+In the USA, and other countries, where letters are assigned to number keypads mnemonics are commonly used to advertise and help remember telephone numbers. Mnemonic, from the Greek “mneme” for memory, is a tricky word to spell so you’ll be pleased to learn ADDucation’s list of mnemonics includes a mnemonic to spell mnemonic!
+
+ADDucation Tips: Click column headings with arrows to sort the list of mnemonics. Reload page for original sort order. Resize your browser to full screen and/or zoom out to display as many columns as possible. Click the ➕ icon to reveal any hidden columns. Start typing in the Filter table box to find anything inside the list of mnemonics table.
+
+Filter table...
+When to use their and there	list of mnemonics	language, spelling	The person i in “their” indicates their is used when talking about people. The signpost r in “there” is used when talking about a place, e.g “over there”. Currently the only image mnemonic on our list of mnemonics.
+Brightest stars in the sky	Sir Can Rig A VCR, Pa.	astronomy, science	Sirius in Canis Major, Canopus in Carina, Rigil Kent in Centaurus, Acrturus in Bootes, Vega in Lyra, Capella in Auriga, Rigel in Orion, Procyon in Canic Minor, Achernar in Eridanus.
+Conditions for life test	MRS GREN.	biology, science	7 conditions that need to be met for something to count as being alive: Movement, Respiration, Sensitivity, Growth, Reproduction, Excretion, Nutrition.
+4 DNA Amine bases	At The Girl’s Club.	biology, science	At The Girl’s Club = AT + GC.
+Adenine pairs with Thymine and Guanine pairs with Cytosine.
+Order of taxonomy	
+Do Kids Prefer Cheese Over Fried Green Spinach
+Dear Kate, Please Come Over For Great Spaghetti
+Dirty, Kinky People Can Often Find Great Sex
+Do Kings Play Chess On Fine Green Silk?
+biology, science	Domain, Kingdom, Phylum, Class, Order, Family, Genus, Species.
+Cell life cycle	
+Idiotic Penguins Make Antarctica Too Cold
+I Pee More After Tea Constantly
+I Protect My Artichokes Too Cleatus.
+biology, science	Interphase, Prophase, Metaphase, Anaphase, Telophase, Cytokinesis. Enter “biology” in this list of mnemonics table filter to see all biology mnemonics.
+Bones in the wrist	
+Some Lovers Try Positions That They Can’t Handle!
+So Long To Pinky, Here Comes The Thumb
+Never Lick Tilly’s Popsicle, Mother Might Come Home.
+biology, anatomy, science	Scaphoid, Lunate, Triquetral, Pisiform, Trapezium, Trapezoid, Capitate and Hamate. Anatomy list of mnemonics.
+12 cranial nerves in order	On Old Olympus’ Towering Tops, A Finn And German Viewed Some Hops.	biology, anatomy	From CN I to CN XII: Olfactory, Optic, Oculomotor, Trochlear, Trigeminal, Abducens, Facial, Acoustic, Glassopharyngeal, Vagus, Spinal accessory and Hypoglossal. Combine this mnemonic with the following one to remember both the order and function.
+Cranial nerve functions	
+Some say my mother bought my brother some bad beer, my, my
+Some say marry money but my brother says big brains matter more.
+biology, anatomy	
+s: sensory.
+m: motor.
+b: both.
+7 essential amino acids	Pvt. Tim Hall.	chemistry, biology, science	Phenylanine, Valine, Threonine. Tryptophan, Isolucine, Histidine, Arginine, Leucine and Lysine.
+Alkanes series	My Enormous Penguin Bounces Pretty High.	chemistry, science	Methane, Ethane, Propane, Butane, Pentane and Hexane.
+Reactivity of metals	Please Send Cats, Monkeys And Zebras In Large Cages – Make Sure Padlocked.	chemistry science	Potassium, Sodium, Calcium, Magnesium, Aluminum, Zinc, Iron, Lead, Copper, Mercury, Silver and Platinum.
+Periodic Table, first 20 elements	
+Harry He Likes Beer Bottle Cold, Not Over Frothy. Nelly’s Nanny Might, Although Silly Person, She Climbs Around Kinky Caves
+He Has Light Brain But Can Not Offer Full Nine Subjects, May All Senior Professional Scientists Come And Protect Chemistry!
+H.HeLi, B.BCNOF and NeNa MgAl SiPS ClArKCa.
+chemistry, science	The most useful mnemonic is the first one because it also helps you remember the two letter chemical element abbreviations:
+Hydrogen, Helium, Lithium, Beryllium, Boron, Carbon, Nitrogen, Oxygen, Fluorine, Neon, Na(Sodium), Magnesium, Aluminium, Silicon, Phosphoros, Sulphur, Chlorine, Argon, K(Potassium) and Calcium.
+Diatomic elements	Have No Fear Of Ice Cold Beer	chemistry, science	Hydrogen, Nitrogen, Oxygen, Fluorine, Chlorine, Iodine and Bromine.NB: (Beer(liquid), Ice (solid). Enter “chemistry” in this list of mnemonics table filter to see all chemistry mnemonics.
+Crude oil products of fractional distillation	Really Great Kings Don’t Forget Birthdays	chemistry, science	Refinery gases, Gasoline, Kerosine, Diesel oil, Fuel oil and Bitumen. Enter “geography” in this list of mnemonics table filter to see all geography mnemonics.
+Which form (D or L) the 8 aldohexoses are in	All Altruists Gladly Make Gum In Gallon Tanks	organic, chemistry, science	Allose, Altrose, Glucose, Mannose, Gulose, Idose, Galactose and Talose.
+Order of color coding on resistors	
+Bad Beer Rots Our Young Guts But Vodka Goes Well (in) Silver Goblets
+Big Brown Rabbits Often Yield Great Big Vocal Groans When Gingerly Slapped.
+electronics	Black (0), Brown (1), Red (2), Orange (3), Yellow (4), Green (5), Blue (6), Violet (7), Gray (8), White (9), Silver (10% tolerance) and Gold (5% tolerance).
+Which US president is on which dollar bill?	When Jeff Left Home Jack Got Fat.
+finance, money	
+Washington $1.
+Jefferson $2.
+Lincoln $5.
+Hamilton $10.
+Jackson $20.
+Grant $50.
+Franklin $100.
+Daylight saving time (DST, BST)	
+Spring ahead, Fall back
+Spring forward, Fall (Autumn) back.
+time, general knowledge	
+USA: Benjamin Franklin proposed daylight saving in a 1784 essay “An Economical Project for Diminishing the Cost of Light” but was was adopted following the “Standard Time Act of March 19, 1918.”
+UK: Daylight saving was first proposed by William Willett in his 1907 “Waste of daylight” publication. After a long campaign it became law in the Summer Time Act in 1916. Daylight saving is called “British Summer Time” (BST) and reverts to “Greenwich Mean Time” (GMT) each Autumn.
+The first place to use daylight saving was Thunder Bay in Canada in 1908.
+The first country to adopt daylight saving was Germany in 1916 during WWI to save fuel.
+How many days in a month?	
+30 days hath September, April, June, and November, all the rest have 31, except February, with 28 days clear and 29 each leap year.
+
+time, general knowledge	There are many variations but this is the most common mnemonic rhyme so we’ve selected that for inclusion in our list of mnemonics.
+Which way to turn screws, light bulbs, knobs etc.	Righty tighty, lefty loosey.	general knowledge	NB: bike pedals (and a few other things) undo the opposite way otherwise they would fall off!
+Stalactites and Stalagmites	
+StalaGmites – Grow up from the Ground
+StalaCtites – Come down from the Ceiling
+Mites crawl up, tights fall down.
+geology, science	Which one is spelt with a C and which with a G? Geology list of mnemonics.
+Mineral hardness scale	
+Tall Girls Can Fight And Only Quit To Chase Dwarves
+Terrible Giants Can Find Alligators Or Quaint Trolls Conveniently Digestible
+Toronto Girls Can Flirt and Other Quirky Things Can Do.
+geology, science	Talc, Gypsum, Calcite, Fluorite, Apatite, Orthoclase feldspar, Quartz, Topaz, Corundum and Diamond (from 1 to 10, softest to hardest) also known as Mohs hardness scale).
+Order of geological time periods/eras	
+Cows Often Sit Down Carefully. Perhaps Their Joints Creak?Persistent Early Oiling Might Prevent Painful Rheumatism
+Pregnant Camels Ordinarily Sit Down Carefully, Perhaps Their Joints Creak?
+geology, science	Cambrian, Ordovician, Silurian, Devonian, Carboniferous, Permian, Triassic, Jurassic, Cretaceous, Paleocene, Eocene, Oligocene, Miocene, Pliocene, Pleistocene, Recent.
+The five great lakes (upgrades below!)	HOMES
+geography	Huron, Ontario, Michigan, Erie and Superior. There are many versions, we’ve only included the best on our list of mnemonics.
+The five great lakes from west to east	
+Super Man Helps Every One.
+Sergeant Major Hates Eating Onions.
+geography	Superior, Michigan, Huron, Erie and Ontario. Enter “geography” in this list of mnemonics table filter to see all geography mnemonics.
+The five great lakes largest to smallest	Super Heroes Must Eat Oats.	geography	Superior, Huron, Michigan, Erie and Ontario (surface area).
+Northern European countries from west to east	No Soup For Russia.	geography	Norway, Sweden, Finland, Russia.
+Countries around the Adriatic Sea	Incredibly Slimy Cockroach Bit My Aunt.	geography	Italy, Slovenia, Croatia, Bosnia and Herzegovina, Montenegro and Albania.
+6 main biomes / ecosystems	The Dry Desert Grows Terrific Castles.	geography	Tundras, Deciduous forests, Deserts, Grasslands, Tropical rain forests, Coniferous forests.
+The Seven hills of Rome	Can Queen Victoria Eat Cold Apple Pie?	geography, history	Capitoline, Quirinal, Viminal, Esquiline, Caelian, Aventine and Palatine.
+50 Nifty United States song	
+Fifty Nifty United States from thirteen original colonies; Fifty Nifty stars in the flag that billows so beautifully in the breeze. Each individual state contributes a quality that is great. Each individual state deserves a bow, We salute them now…
+
+geography, history	Here’s a song mnemonic junior students learn the states of the USA. Listen on YouTube for all fifty states – enjoy!
+The first 8 presidents of the USA	Will A Jolly Man Make A Jolly Visitor?	history	George Washington, John Adams, Thomas Jefferson, James Madison, James Monroe, John Quincy Adams, Andrew Jackson and Martin Van Buren one of our history list of mnemonics favorites.
+The royal houses of the kings and queens of England (and Great Britain)	No Plan Like Yours To Study History Wisely.	history	Norman, Plantagenet, Lancaster, York, Tudor, Stuart, Hanover and Windsor. Enter “history” in this list of mnemonics table filter to see all history mnemonics.
+British order of titles below king and queen	Do Men Ever Visit Britain?	history, genealogy	Duke, Marquis, Earl, Viscount, Baron.
+Six wives of Henry VIII in order	
+All Bishops Should Cease Heeding Popes
+All Barons Should Carry Heavy Parcels
+A Big Secret Concealing Her Past
+Able Bodied Seamen Catch Hairy Pirates.
+Arrogant Anne seemed more clever at how to catch the ring.
+
+history	Catherine of Aragon, Anne Boleyn, Jane Seymour, Anne of Cleves, Catherine Howard and Catherine Parr
+Arrogant (Katherine of Aragon) Anne (Anne Boleyn) seemed more (Jane Seymour) clever (Anne of Cleves) at how to (Katherine Howard) catch the ring (Catherine Parr).
+
+Fate of the Six wives of Henry VIII	Divorced, beheaded, died, divorced, beheaded, survived.	history	Catherine of Aragon was divorced, Anne Boleyn was beheaded, Jane Seymour died, Anne of Cleves was divorced, Catherine Howard was beheaded and Catherine Parr survived. Although Catherine Parr survived and remarried (for the fourth time) she gave birth to a daughter (Mary Seymour) but died a week later, just 18 months after the death of Henry VIII.
+The seven articles of the United States Constitution	Large Elephants Jump Slowly And Sink Rapidly.	history	Legislative, Executive, Judicial, Supremacy, Amendment, Statehood and Ratification
+Order of secession of the Confederate States of America	So My Father Ate Grapes Last Tuesday, Very Awesome Tart Napas.	history, USA	South Carolina, Mississippi, Florida, Alabama, Georgia, Louisiana, Texas
+Lincoln then called for troops (where the comma is) after which a further four states seceded:
+Virginia, Arkansas, Tennessee, North Carolina.
+Roman numerals as letters in order of magnitude	
+Lovely Cadbury Dairy Milk
+Lazy Cats Don’t Move
+I Value Xylophones Like Cows Dig Milk.
+history	I=1, V=5, X=10, L=50, C=100, D=500 and M=1000.
+Silent vowels	When two vowels go walking the first does the talking.	language, grammar	i.e. the first vowel in “eat” and “oat” is pronounced while the second vowel remains silent. Enter “grammar” in this list of mnemonics table filter to see all grammar mnemonics.
+here or hear?	We hear with our ear.	language, spelling	Enter “spelling” in this list of mnemonics table filter to see all spelling mnemonics.
+affect or effect?	RAVEN	language, spelling	Remember Affect is a Verb, Effect is a Noun.
+Affect is the action effect is the result.
+Difference between compliment and complement?	complement or compliment?	language, spelling	Complement adds something so it’s enough, compliment puts you in the limelight.
+Morse code mnemonics	
+All the dots: Enemy Is Secretly Hiding
+All the dashes: Take Morse Orders.
+language, alphabet, communications	
+E •  I • •  S • • •  H • • • •
+T –  M – –  O – – –
+Difference between desert and dessert?	desert or dessert?	language, spelling	a desert is sandy, a dessert has two s’s in it, like sweet stuff.
+Difference between stationary and stationery?	stationary or stationery?	language, spelling	a for at rest, e for envelope.
+Difference between hear and here?	hear or here?	language, spelling	Both words sound the same. You hear with your ear.
+Mnemonics to spell acronym	
+Alphabetical Code for Remembering Odd Names You Make up.
+A Clever Re-Organization Nudges Your Memory.
+A Coded Rendition Of Names Yielding Meaning.
+A Contrived Reduction Of Nouns, Yielding Mnemonics.
+language, spelling	The first two cheat slightly but the last two are perfect. Have you got a better mnemonic for acronym?
+How to spell because	
+Big elephants can’t always understand small elephants.
+Big elephants can always understand small elephants.
+language, spelling	Take your pick.
+🇺🇸 How to spell diarrhea
+🇬🇧 How to spell diarrhoea.
+🇺🇸 D–I–A–Run, Run, Hurry! Everyone Aaah!
+🇺🇸 Dashing In A Rush, Running Harder, Else Accident!
+🇺🇸 Damn, In A Real Rush, Help Exploding Ass!
+🇬🇧Dashing In A Rush, Running Harder Or Else Accident!
+🇬🇧 Diarrhoea Is A Really Runny Heap Of Endless Amounts.
+🇬🇧 Dining In A Rolls Royce Having Over Eaten Again.
+language, spelling, health, illness	Try to visualize and remember the action in the rhythm as well as the rhythm itself – the same applies to the following entries on the list of mnemonics.
+Hot to spell embarrass	Remember I go Really Red when my Sibling Sings.	language, spelling	The R’s and the S’s make embarrass hard to spell. This mnemonic reminds you there are two R’s and two S’s.
+How to spell necessary	Never Eat Crisps, Eat Salad Sandwiches, And Remain Young.	language, spelling	
+How to spell mnemonics	Mnemonics Now Erase Man’s Oldest Nemesis, Insufficient Cerebral Storage.	language, spelling	
+How to spell tomorrow	Trails Of My Old Red Rose Over Window.	language, spelling	Enter “language” in this list of mnemonics table filter to see all language mnemonics.
+How to spell rhythm	Rhythm Helps Your Two Hips Move.	language, spelling, music	
+How to spell argument	I lost an e in an argument.	language, spelling	Argue loses it’s e so it’s argument, not arguement, and arguing not argueing.
+How to spell difficulty	mrs D, mrs I, mrs FFI, mrs C, mrs U, mrs LTY.	language, spelling	Works well when said out loud. Spelling list of mnemonics.
+How to spell Mississippi	mrs M, mrs I, mrs double S I, double S I, PP I
+M I double S, I double S, I double P, I.	language, spelling, geography	Another one using mrs – again works well when said out loud. There are other variations but this one has made the ADDucation list of mnemonics.
+How to spell Saskat-chewan	Ask At Chew An with S in front of it.	language, spelling, geography	
+How to spell bookkeeper	Double o, double k, double e.	language, spelling, accountancy	Triple compound: bookkeeper.
+Punctuation order	P then Q in the alphabet or “Mind your Ps and Qs”.	language, grammar	Way to remember quotation marks come after any other closing punctuation‏‎ marks. Unfortunately the punctuation rules in the USA and UK differ but that’s beyond the scope of this list of mnemonics.
+When to start a new paragraph	Four “T” rhyme.	language, grammar	A little writing rhyme of topic, territory, talker, time. When there’s a change in one of these, start a new paragraph if you please.
+7 coordinating conjunctions in English	FANBOYS	language, grammar	For, And, Nor, But, Or, Yet and So.
+Pi (π) to 6, 7 and 15 decimal places	
+How I wish I could calculate pi
+May I have a large container of coffee?
+Now I need a drink, alcoholic of course, after the heavy chapters involving quantum mechanics!
+mathematics, physics	This list of mnemonics makes it easy to remember pi up to 14 decimal places π = 3.14159265358979
+The number of characters in each word gives the number sequence:
+
+How (3)
+I (1)
+wish (4)
+I (1)
+could (5)
+calculate (9)
+pi (2)
+and so on…
+Piphilology, a wordplay on the linguistic field of philology, offers longer Pi mnemonics based on poems, songs and even whole books. Pi has been calculated to trillions of decimal places is both an irrational number and fundamental physical constant widely used in mathematics.
+
+Euler’s number (e) to up to 15 decimal places	To express e remember to memorize a sentence to memorize this.	mathematics, science	This list of mnemonics makes it easy to memorize e to 10 decimal places: e = 2.7182818284
+The number of letters in each word  gives the number sequence:
+
+To (2)
+express (7)
+e (1)
+remember (8)
+to (2)
+memorize (8)
+a (1)
+sentence (8)
+to (2)
+memorize (8)
+this. (4)
+Alternatively you can remember that after 2.7 the year 1828 appears twice:
+e = 2.718281828 and you can further extend this to 15 decimal places by adding the numbers for the angles in a right angle isosceles triangle 45°, 90°, 45°:
+e = 2.718281828459045.
+
+Order of SI metric system units	
+King Henry Died By Drinking Chocolate Milk
+King Henry Doesn’t Bother Dusting Clean Money.
+mathematics	Prefixes in descending order of magnitude: kilo, hecto, deca, base unit, deci, centi, milli. Enter “mathematics” in this list of mnemonics table filter to see more maths mnemonics.
+Order of math operations	
+Please Excuse My Dear Aunt Sally
+PEMDAS or BIDMAS (depending on locale).
+mathematics	Parentheses, Exponents, Multiply, Divide, Add and Subtract
+Brackets, Indices, Multiply, Divide, Add and Subtract. Mathematics list of mnemonics.
+Trigonometry, definitions for Sine, Cosine, and Tangent.	
+SOHCAHTOA
+The Old Art Students Of Harrow Could Always Heave
+Sex On Hard Concrete Always Hurts The Other’s Ass
+Sex On Hard Concrete Always Hurts Tender Orgasmic Areas
+Could A Hungry Stupid Ostrich Have Taken Over America
+Two Old Angels Skipped Over Heaven Carrying Ancient Harps
+Some Officers Have Curly Auburn Hair Til Old Age.
+mathematics	SOHCAHTOA is the easiest to remember but we’ve included some of the most most popular mnemonics in our list for anyone using trigonometry the old-fashioned way! Although the order in the mnemonic changes the key facts remain the same:
+Tangent = Opposite / Adjacent
+Sine = Opposite / Hypotenuse
+Cosine = Adjacent / Hypotenuse.
+Long division steps	Dad, Mom, Sister, Brother, Rover	mathematics, algebra	Divide, Multiply, Subtract, Bring Down, Remainder.
+Calculus, order of taking the derivative of a quotient..	Lo-di-hi minus hi-di-lo all over lo squared or
+Low d high less high d low, draw the line and square below.	mathematics, algebra	lo or low refers to the bottom, hi or high refers to the top and di and d are short for derivative.
+Direction of graph axes	X is a cross, Y to the sky.	mathematics, statistics	The X axis is across (horizontal) and the Y axis is vertical so you have to reach up to the sky.
+Statistics	Hey diddle diddle…
+The median‘s the middle,
+You add then divide for the mean,
+The mode is the one that you see the most,
+And the range is the difference between.
+
+mathematics, statistics	Recite this to the tune of the nursery rhyme “Hey diddle diddle, The cat and the fiddle”
+Layers of the atmosphere	The Strong Man’s Triceps Explode.	meteorology, science	Troposphere, Stratosphere, Mesosphere, Thermosphere, Exosphere.
+The order of sharps	Father Charles Goes Down And Ends Battle.	music	F, C, G, D, A, E, B (also know as circle of fifths). Enter “music” in this list of mnemonics table filter to see all music mnemonics.
+The order of flats	Battle Ends And Down Goes Charles’ Father.	music	B, E, A, D, G, C, F
+Order of notes (bottom to top) as lines on the treble clef stave.	Every Good Boy Deserves Favor.	music	E, G, B, D, F
+This musical mnemonic was used as the title for the 1971 album Every Good Boy Deserves Favour by The Moody Blues. The notes are played in sequence on piano in track one “Procession”. It was also used as the title for the Tom Stoppard play first performed in 1977.
+Notes represented by the spaces between the lines on the treble clef stave.	Furry Animals Cook Excellently (or just FACE).	music	F, A, C, E.
+Order of notes (bottom to top) as lines on the bass clef stave.	Good Boys Do Fine, Always.	music	G, B, D, F, A.
+Notes represented by the spaces between the lines on the bass clef stave.	All Cows Eat Grass.
+ 
+
+music	A, C, E, G.
+Order of guitar strings	
+Every Average Dude Gets Better Eventually
+Elephants and Donkeys Grow Big Ears
+Every Beginner Guitarist Does All Exercises!
+music	E, A, D, G, B, E in standard tuning or E, B, G, D, A, E in reverse order. This mnemonic has many variations – we’ve added the guitar related ones to our list of mnemonics.
+First 11 notable Ionian philosophers	
+THE LAD ZAPPA
+THE PLAZA PAD.
+philosophy	In no particular order Thales, Heraclitus, Empedocles, Leucippus, Anaximander, Democritus, Zeno, Anaximenes, Protagoras, Parmenides, Anaxagoras.
+Order of colors of the rainbow	
+Richard Of York Gave Battle In Vain
+Run Off You Girls, Boys In View.
+physics, science	Red, Orange, Yellow, Green, Blue, Indigo and Violet.
+Order of the planets from the Sun	
+My Very Easy Method Just Speeds Up Naming Planets
+My Very Energetic Mother Just Served Us Nine Pizzas
+Mervin Visits Every Morning. Just Stays Until Noon
+My Very Energetic Mother Just Served Us Nachos
+Mean Very Evil Men Just Shortened Up Nature
+Many Very Educated Men Justify Stealing Unique Ninth.
+physics, astronomy, science	Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune and Pluto
+Since 2006 Pluto is no longer classified as a planet, it is now designated as a dwarf planet. There are many other variations not included in ADDucation’s list of mnemonics.
+The speed of light	We guarantee certainty, clearly referring to this light mnemonic.	physics, science	The number of letters in each word gives you the the speed of light = 299,792,458 m/sec.
+2: we
+9: guarantee
+9: certainty
+7: clearly
+9: referring
+2: to.
+4: this
+5: light
+8: mnemonic.
+First 5 books of the bible in order	
+God Equals Light Not Darkness
+God’s Excellent Love Never Dies.
+religion, christianity	
+Genesis.
+Exodus.
+Leviticus.
+Numbers.
+Deuteronomy.
+Port or starboard	
+Port wine is red…
+Port is the same length as left…
+nautical, sailing, navigation	
+… so starboard is green. More sailing mnemonics.
+… so the longer word is starboard.
+Venomous snake or not?	Red and yellow, kill a fellow; red and black, poison lack.	nature, wildlife, reptiles	Helps distinguish the red and yellow banding of venomous coral snakes from similar looking non-venomous snakes.
+Order of actors that have played Dr Who?	
+How To Punish Bad Daleks Before Many Million Earthlings Tactically Seek Calmer Worlds
+How To Punish Bad Daleks Before Many Million Earthlings Truly See Clearly (does not include the current Doctor).
+television, TV, sci-fi	William Hartnell, Patrick Troughton, Jon Pertwee, Tom Baker, Peter Davison, Tom Baker, Sylvester McCoy, Paul McGann, Christopher Eccleston, David Tennant, Matt Smith, Peter Capaldi and Jodie Whittaker.
+See Also: Acronyms, Abbreviations, Initialisms & Wordplay | Phonetic Alphabets & Morse Code
+FAQ: What’s the Difference Between an Acronym and a Mnemonic?
+Mnemonic
+Acronym
+Mnemonic is a learning method.
+Acronym is an abbreviation.
+Some mnemonics use acronyms.
+Some acronyms are not mnemonics.
+A mnemonic typically uses words and letters to remember grouped information.
+An acronym is typically formed from the first letter of a series of words.
+As well as words mnemonics can be phrases, song, rhythms, poems etc.
+Acronyms are usually pronounced as a single word.
+ADDucation Lists Related to List of Mnemonics:
+Cheatsheet acronymns for text and chat messaging…
+Punctuation and quotation marks explainer…
+Mnemonic for The Planets of Our Solar System…
+Please share any useful mnemonics, memory joggers, aide-memoirs or memory tricks so we can improve this list of mnemonics by adding your comments below…
+Share via Social Media or Add a Comment
+Your email address will not be published. Required fields are marked *
+
+Name * 
+
+Email * 
+
+ Save my name, email, and website in this browser for the next time I comment.
+
+Share Your Feedback
+Add your comments here to help us improve our lists - thank you!
+Earth & Space Mankind & Nature Science & Technology Travel and Transport History Politics & Religion Literature & Philosophy Art & Artists Classical Music Rock & Pop Movies and TV Shows Sport Football Facts General Knowledge LifeStyle QUIZ zone
+Change privacy settings Privacy settings history Revoke consents Data Privacy Policy ADDucation Legal Notice Sitemap General Knowledge Lists Contact & Feedback
+
