@@ -9,8 +9,10 @@ logger = logging.getLogger(__name__)
 def log_dptable(V):
   s = "    " + " ".join(("%7d" % i) for i in range(len(V))) + "\n"
   for y in V[0]:
-    s += "%.15s: " % y
-    s += " ".join("%.7s" % ("%f" % v[y]) for v in V)
+    print(y)
+    s += "{:15.15}:".format("".join(y))
+    s += " ".join("{:7.7}".format(list((f"{v[y]}") for v in V)[0]))
+    # ^^only the first element is formatted.... is this a issue?^^
     s += "\n"
   logger.debug('%s', s)
 

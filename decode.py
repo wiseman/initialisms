@@ -4,7 +4,7 @@ import os.path
 import re
 import sys
 import time
-
+import six
 import gflags
 import nltk
 import nltk.tokenize
@@ -17,7 +17,7 @@ logger = logging.getLogger(__name__)
 
 gflags.DEFINE_float(
   'error_prob',
-  0.001,
+  0.000001,
   'The probability that a letter was read or written incorrectly.')
 gflags.DEFINE_bool(
   'dump_tokens',
@@ -44,6 +44,9 @@ def reposses(tokens):
     elif token == "'s":
       yield last_token + token
       last_token = None
+    elif token == "n't":
+      yield last_token + token
+      last_token = None
     else:
       yield last_token
       last_token = token
@@ -56,7 +59,7 @@ class Pdist(dict):
   def __init__(self, data=[], N=None, missingfn=None):
     for key, count in data:
       self[key] = self.get(key, 0) + int(count)
-    self.N = float(N or sum(self.itervalues()))
+    self.N = float(N or sum(self.values()))
     self.missingfn = missingfn or (lambda k, N: 1. / N)
 
   def __call__(self, key):
@@ -78,23 +81,32 @@ class Decoder(object):
     for corpus_id in corpora_ids:
       logger.info('Loading corpus %s', corpus_id)
       corpus = extra_corpora.raw(corpus_id)
+      print("this is the corpus", corpus)
       for sentence in nltk.tokenize.sent_tokenize(corpus):
+
         sent_words = [w.lower()
                       for w in reposses(nltk.tokenize.word_tokenize(sentence))]
-        sent_words = [filter(is_token, w) for w in sent_words]
-        sent_words = [w for w in sent_words if w]
-        if sent_words:
-          sent_words = ['$'] + sent_words
-          words += sent_words
-    self.states = set(words)
-    self.Pw = Pdist(collections.Counter(nltk.ngrams(words, 1)).items())
-    self.P2w = Pdist(collections.Counter(nltk.ngrams(words, 2)).items())
-    self.words_by_letter = collections.defaultdict(set)
-    for w in words:
-      self.words_by_letter[w[0]].update([w])
-    logger.info(
-      'Loading %s corpora took %s s', len(corpora_ids), timer.elapsed())
-    logger.info('%s distinct tokens', len(self.states))
+    #     sent_words = [tuple(filter(is_token, w)) for w in sent_words]
+    #     # print(f"sentence_words:\n {sent_words}")
+    #     sent_words = [w for w in sent_words if w]
+    #     if sent_words:
+    #       sent_words = ['$'] + sent_words
+    #       words.extend(sent_words)
+
+    # # print(f"Words found:\n {words}")
+    # self.states = set(words)
+
+    # self.Pw = Pdist(collections.Counter(nltk.ngrams(words, 1)).items())
+    # self.P2w = Pdist(collections.Counter(nltk.ngrams(words, 2)).items())
+    # self.words_by_letter = collections.defaultdict(set)
+
+    # for w in words:
+    #   self.words_by_letter[w[0]].update([w])
+    # # print(f" self.words_by_letter \n { self.words_by_letter }")
+
+    # logger.info(
+    #   'Loading %s corpora took %s s', len(corpora_ids), timer.elapsed())
+    # logger.info('%s distinct tokens', len(self.states))
 
   def start_p(self, word):
     prob = self.Pw((word,))
@@ -119,13 +131,15 @@ class Decoder(object):
     states = set()
     for obs in initials:
       states.update(self.words_by_letter[obs])
+    
     logger.info('Searching %s possible states', len(states))
-    result = viterbi.viterbi(
-      initials,
-      states,
-      self.start_p,
-      self.transition_p,
-      self.emission_p)
+    
+    # result = viterbi.viterbi(
+    #   initials,
+    #   states,
+    #   self.start_p,
+    #   self.transition_p,
+    #   self.emission_p)
     logger.info('Decoding %r took %s s', initials, timer.elapsed())
     return result
 
@@ -153,19 +167,20 @@ def repl(decoder):
   try:
     while True:
       if sys.stdin.isatty():
-        line = raw_input('Enter initials:\n')
+        line = input('Enter initials:\n')
       else:
-        line = raw_input()
+        line = input()
       logger.info('Decoding %r', line)
       prob, words = decoder.decode(line.lower())
-      print prob, ' '.join(words)
+      # print(' '.join(''.join(tup) for tup in words))
+      print(prob, ' '.join(''.join(tup) for tup in words))
   except EOFError:
     pass
 
 
 def dump_tokens(decoder):
   for word in sorted(decoder.states):
-    print word
+    print(word)
 
 
 def main(argv):
