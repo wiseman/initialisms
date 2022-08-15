@@ -9,6 +9,10 @@ Deploy to eb         `eb deploy`
 
 
 - [ ] There should be a test suite
+- [ ] words.txt should be far far larger
+- [ ] refactor code to be shorter and easier to ready
+- [ ] prepare this code base to be used as an off site calculations facilaty
+- [ ] set up so that only mym website can be the origin
  
 
 
