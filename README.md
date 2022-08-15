@@ -1,3 +1,41 @@
+How to add more mnemonics
+
+Pull down latest branch. 
+Append to the words.txt file
+Run a test locally   
+Deploy to eb         `eb deploy`
+
+
+
+
+- [ ] There should be a test suite
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # initialisms
 
 ![Code card](https://raw.github.com/wiseman/initialisms/master/code-card.jpg "code card")
