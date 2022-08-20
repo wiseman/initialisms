@@ -13,8 +13,9 @@ Deploy to eb         `eb deploy`
 - [ ] refactor code to be shorter and easier to ready
 - [ ] prepare this code base to be used as an off site calculations facilaty
 - [ ] set up so that only mym website can be the origin
- 
+- [ ] prevent duplicates in return
 
+- [ ] order is not important option which loops over the regex in different orders
 
 
 
