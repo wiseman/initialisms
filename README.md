@@ -7,24 +7,22 @@ Deploy to eb         `eb deploy`
 
 
 
-
+- [ ] set up on https
 - [ ] There should be a test suite
-- [ ] words.txt should be far far larger
+- [x] words.txt should be far far larger
 - [ ] refactor code to be shorter and easier to ready
 - [ ] prepare this code base to be used as an off site calculations facilaty
 - [ ] set up so that only mym website can be the origin
-- [ ] prevent duplicates in return
-
-- [ ] order is not important option which loops over the regex in different orders
-
-
-
+- [x] tidyResultsList should prevent duplicates in return
+- [x] drop elements not the same length as the initials string in tidyList
+- [x] order is not important option which loops over the regex in different orders
+- [ ] consider ways to speed up code
 
 
 
 
-
-
+# how to set up eb env for https
+https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/configuring-https.html
 
 
 
