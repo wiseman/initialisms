@@ -18,11 +18,16 @@ Deploy to eb         `eb deploy`
 - [x] order is not important option which loops over the regex in different orders
 - [ ] consider ways to speed up code
 
-
-
+- [ ] return [ "no results found, try a different phrase."]
 
 # how to set up eb env for https
 https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/configuring-https.html
+
+
+`eb init` Sets default values for Elastic Beanstalk applications created with EB CLI by prompting you with a series of questions.
+`eb create` Creates a new environment and deploys an application version to it.
+
+to deploy to mym's aws profile use ` --profile beautysleep@mym` at the end of  the `eb` or `aws` command, otherwise susbuddys account will be used
 
 
 
